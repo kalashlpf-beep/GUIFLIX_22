@@ -1,0 +1,15 @@
+{
+  "appId": "com.guiflix.app",
+  "appName": "GUI FLIX",
+  "webDir": "www",
+  "backgroundColor": "#0f0c1a",
+  "server": {
+    "url": "https://guiflix-site.guiflix.workers.dev",
+    "androidScheme": "https",
+    "allowNavigation": ["guiflix-site.guiflix.workers.dev"]
+  },
+  "android": {
+    "backgroundColor": "#0f0c1a",
+    "allowMixedContent": false
+  }
+}
